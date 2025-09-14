@@ -1,1 +1,1 @@
-backup dziala
+echo "backup dziala"
